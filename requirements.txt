@@ -3,7 +3,7 @@ TgCrypto
 aiohttp
 python-dotenv
 feedparser
-libtorrent==2.0.7
+libtorrent
 pillow
 requests
 bs4
